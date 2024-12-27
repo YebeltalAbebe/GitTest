@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UNECA\\Personal\\GitTest\\GitTest\\GitTest.csproj": {}
+    "D:\\UNECA\\Personal\\GitTest\\GitTest.csproj": {}
   },
   "projects": {
-    "D:\\UNECA\\Personal\\GitTest\\GitTest\\GitTest.csproj": {
+    "D:\\UNECA\\Personal\\GitTest\\GitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UNECA\\Personal\\GitTest\\GitTest\\GitTest.csproj",
+        "projectUniqueName": "D:\\UNECA\\Personal\\GitTest\\GitTest.csproj",
         "projectName": "GitTest",
-        "projectPath": "D:\\UNECA\\Personal\\GitTest\\GitTest\\GitTest.csproj",
+        "projectPath": "D:\\UNECA\\Personal\\GitTest\\GitTest.csproj",
         "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
-        "outputPath": "D:\\UNECA\\Personal\\GitTest\\GitTest\\obj\\",
+        "outputPath": "D:\\UNECA\\Personal\\GitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\UNECA\\Personal\\GitTest\\GitTest\\",
+  "WorkspaceRootPath": "D:\\UNECA\\Personal\\GitTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8249D72B-8C20-46C5-97AE-96AA14C76ABD}|GitTest.csproj|d:\\uneca\\personal\\gittest\\gittest\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8249D72B-8C20-46C5-97AE-96AA14C76ABD}|GitTest.csproj|solutionrelative:views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8249D72B-8C20-46C5-97AE-96AA14C76ABD}|GitTest.csproj|d:\\uneca\\personal\\gittest\\gittest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8249D72B-8C20-46C5-97AE-96AA14C76ABD}|GitTest.csproj|d:\\uneca\\personal\\gittest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8249D72B-8C20-46C5-97AE-96AA14C76ABD}|GitTest.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8249D72B-8C20-46C5-97AE-96AA14C76ABD}|GitTest.csproj|d:\\uneca\\personal\\gittest\\gittest\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8249D72B-8C20-46C5-97AE-96AA14C76ABD}|GitTest.csproj|d:\\uneca\\personal\\gittest\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8249D72B-8C20-46C5-97AE-96AA14C76ABD}|GitTest.csproj|solutionrelative:views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8249D72B-8C20-46C5-97AE-96AA14C76ABD}|GitTest.csproj|d:\\uneca\\personal\\gittest\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8249D72B-8C20-46C5-97AE-96AA14C76ABD}|GitTest.csproj|solutionrelative:views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8249D72B-8C20-46C5-97AE-96AA14C76ABD}|GitTest.csproj|d:\\uneca\\personal\\gittest\\gittest\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8249D72B-8C20-46C5-97AE-96AA14C76ABD}|GitTest.csproj|d:\\uneca\\personal\\gittest\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8249D72B-8C20-46C5-97AE-96AA14C76ABD}|GitTest.csproj|solutionrelative:views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8249D72B-8C20-46C5-97AE-96AA14C76ABD}|GitTest.csproj|d:\\uneca\\personal\\gittest\\gittest\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8249D72B-8C20-46C5-97AE-96AA14C76ABD}|GitTest.csproj|d:\\uneca\\personal\\gittest\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8249D72B-8C20-46C5-97AE-96AA14C76ABD}|GitTest.csproj|solutionrelative:views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,11 +42,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\UNECA\\Personal\\GitTest\\GitTest\\Views\\Home\\Delete.cshtml",
+              "DocumentMoniker": "D:\\UNECA\\Personal\\GitTest\\Views\\Home\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Delete.cshtml",
-              "ToolTip": "D:\\UNECA\\Personal\\GitTest\\GitTest\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "D:\\UNECA\\Personal\\GitTest\\Views\\Home\\Delete.cshtml",
               "RelativeToolTip": "Views\\Home\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -57,50 +57,47 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\UNECA\\Personal\\GitTest\\GitTest\\Views\\Home\\Edit.cshtml",
+              "DocumentMoniker": "D:\\UNECA\\Personal\\GitTest\\Views\\Home\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Edit.cshtml",
-              "ToolTip": "D:\\UNECA\\Personal\\GitTest\\GitTest\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "D:\\UNECA\\Personal\\GitTest\\Views\\Home\\Edit.cshtml",
               "RelativeToolTip": "Views\\Home\\Edit.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T12:03:11.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T12:03:11.076Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\UNECA\\Personal\\GitTest\\GitTest\\Views\\Home\\Create.cshtml",
+              "DocumentMoniker": "D:\\UNECA\\Personal\\GitTest\\Views\\Home\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Create.cshtml",
-              "ToolTip": "D:\\UNECA\\Personal\\GitTest\\GitTest\\Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\UNECA\\Personal\\GitTest\\Views\\Home\\Create.cshtml",
               "RelativeToolTip": "Views\\Home\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T12:02:56.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T12:02:56.118Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\UNECA\\Personal\\GitTest\\GitTest\\Views\\Home\\Details.cshtml",
+              "DocumentMoniker": "D:\\UNECA\\Personal\\GitTest\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
-              "ToolTip": "D:\\UNECA\\Personal\\GitTest\\GitTest\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\UNECA\\Personal\\GitTest\\Views\\Home\\Details.cshtml",
               "RelativeToolTip": "Views\\Home\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T12:02:43.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T12:02:43.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\UNECA\\Personal\\GitTest\\GitTest\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\UNECA\\Personal\\GitTest\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\UNECA\\Personal\\GitTest\\GitTest\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAIwEAAAAALAAAA",
+              "ToolTip": "D:\\UNECA\\Personal\\GitTest\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "Controllers\\HomeController.cs*",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwEIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-27T12:01:43.504Z",
               "EditorCaption": ""

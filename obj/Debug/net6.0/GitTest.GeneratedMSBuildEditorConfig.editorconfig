@@ -9,59 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GitTest
 build_property.RootNamespace = GitTest
-build_property.ProjectDir = D:\UNECA\Personal\GitTest\GitTest\
+build_property.ProjectDir = D:\UNECA\Personal\GitTest\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\UNECA\Personal\GitTest\GitTest
+build_property.MSBuildProjectDirectory = D:\UNECA\Personal\GitTest
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/UNECA/Personal/GitTest/GitTest/Pages/Error.cshtml]
+[D:/UNECA/Personal/GitTest/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UNECA/Personal/GitTest/GitTest/Pages/Index.cshtml]
+[D:/UNECA/Personal/GitTest/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UNECA/Personal/GitTest/GitTest/Pages/Privacy.cshtml]
+[D:/UNECA/Personal/GitTest/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UNECA/Personal/GitTest/GitTest/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/UNECA/Personal/GitTest/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UNECA/Personal/GitTest/GitTest/Pages/_ViewImports.cshtml]
+[D:/UNECA/Personal/GitTest/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UNECA/Personal/GitTest/GitTest/Pages/_ViewStart.cshtml]
+[D:/UNECA/Personal/GitTest/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UNECA/Personal/GitTest/GitTest/Views/Home/Create.cshtml]
+[D:/UNECA/Personal/GitTest/Views/Home/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UNECA/Personal/GitTest/GitTest/Views/Home/Delete.cshtml]
+[D:/UNECA/Personal/GitTest/Views/Home/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UNECA/Personal/GitTest/GitTest/Views/Home/Details.cshtml]
+[D:/UNECA/Personal/GitTest/Views/Home/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UNECA/Personal/GitTest/GitTest/Views/Home/Edit.cshtml]
+[D:/UNECA/Personal/GitTest/Views/Home/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UNECA/Personal/GitTest/GitTest/Views/Home/Index.cshtml]
+[D:/UNECA/Personal/GitTest/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UNECA/Personal/GitTest/GitTest/Pages/Shared/_Layout.cshtml]
+[D:/UNECA/Personal/GitTest/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-17z28wk28j
